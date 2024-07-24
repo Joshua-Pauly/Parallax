@@ -6,3 +6,4 @@ This project claculates distance of objects by claculating the distance of two c
 
 
 ![image](https://github.com/user-attachments/assets/4e4ef0ec-8d4c-4dec-b235-2edc947060c5)
+Using the paralax technique the object on the lamp was calculated to be 3.6Meters away from the camera.
